@@ -1,3 +1,5 @@
+https://zenodo.org/badge/latestdoi/366670107
+
 This repository contains an example of application of the following procedure:
 1. extraction of the POR-FDC (period-of-record flow-duration-curve) from the daily streamflow series observed at the given gauged sites;
 2. computation of the total negative deviation (TND, as defined in Pugliese et al., 2014, 2016);
