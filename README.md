@@ -12,9 +12,10 @@ The folder contains:
 * FDC_TND_TNDTK.R: main R script performing the operations described above;
 * tnd.R: function for computing the TND;
 * resample_FDC.R: funtion for resampling FDC (for the durations of interest);
-* GaugedCatchments: folder with the shapefile of the gauged catchment boundaries;
-* GaugedStations: folder with the shapefile of the gauged stations;
-* UngaugedCatchments: folder with the shapefile of the ungauged (target) catchment boundaries;
-* StreamflowData: folder with the .csv files of the daily streamflow series observed at the given gauged sites.
+* GaugedCatchments: .zip folder with the shapefile of the gauged catchment boundaries;
+* GaugedStations: .zip folder with the shapefile of the gauged stations;
+* UngaugedCatchments: .zip folder with the shapefile of the ungauged (target) catchment boundaries;
+* StreamflowData: .zip folder with the .csv files of the daily streamflow series observed at the given gauged sites.
+(Please do remember to unzip the appropriate folders before running the code)
 
 The example application considers 27 gauged catchments and 3 target ungauged catchments located in Tyrol (Austria) and South Tyrol (Italy), within an area considered for the activities of the European INTERREG Italy-Austria project named ALFFA (Holistic multiscale AnaLysis of the factors and their effect on the Fish Fauna in inner‐Alpine space).
