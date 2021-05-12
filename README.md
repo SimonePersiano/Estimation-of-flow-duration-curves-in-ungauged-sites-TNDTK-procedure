@@ -1,7 +1,7 @@
 This repository contains an example of application of the following procedure:
-(1) extraction of the POR-FDC (period-of-record flow-duration-curve) from the daily streamflow series observed at the given gauged sites;
-(2) computation of the total negative deviation (TND, as defined in Pugliese et al., 2014, 2016);
-(3) application of total negative deviation top-kriging (TNDTK; see e.g. Pugliese et al., 2014, 2016) for computing POR-FDCs at the given (ungauged) target sites.
+1. extraction of the POR-FDC (period-of-record flow-duration-curve) from the daily streamflow series observed at the given gauged sites;
+2. computation of the total negative deviation (TND, as defined in Pugliese et al., 2014, 2016);
+3. application of total negative deviation top-kriging (TNDTK; see e.g. Pugliese et al., 2014, 2016) for computing POR-FDCs at the given (ungauged) target sites.
 
 The required inputs are:
 * daily streamflow series observed for different river cross-sections;
